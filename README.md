@@ -15,7 +15,7 @@
 
 4- Cpanel'de  oluşturduğumuz FTP hesap ayarlarını 'New repository secret' sekmesinde kaydediyoruz.
  
-![img](https://github.com/CihanOmur/Auto-Deploy-Github-Project-into-cPanel/blob/main/images/4.png)
+![img](https://github.com/CihanOmur/Auto-Deploy-Github-Project-into-cPanel/blob/main/images/4.jpg)
 
 5- FTP_PASSWORD : FTP hesabınızın şifresi.
 
@@ -31,13 +31,13 @@
 
 8- Actions sekmesinden "set up workflow yourself" alanı ile kendi deploy kodumuzu oluşturalım.
 
-![img](https://github.com/CihanOmur/Auto-Deploy-Github-Project-into-cPanel/blob/main/images/8.png)
+![img](https://github.com/CihanOmur/Auto-Deploy-Github-Project-into-cPanel/blob/main/images/8.jpg)
 
 9- Actions Code.txt dosyası içindeki kodu buraya kopyalayalım ve hangı branch ile işlem yapılması gerekli ise değiştirelim.
 
-![img](https://github.com/CihanOmur/Auto-Deploy-Github-Project-into-cPanel/blob/main/images/9.png)
+![img](https://github.com/CihanOmur/Auto-Deploy-Github-Project-into-cPanel/blob/main/images/9.jpg)
 
 10- Son olarak Acitons bölümünden işlemlerimizin başarılı olup olmadığını kontrol edelim.
     Eğer başarısız ise FTP nilgilerini kontol edin.
 
-![img](https://github.com/CihanOmur/Auto-Deploy-Github-Project-into-cPanel/blob/main/images/10.png)
+![img](https://github.com/CihanOmur/Auto-Deploy-Github-Project-into-cPanel/blob/main/images/10.jpg)
